@@ -6,5 +6,5 @@
 // - Κάνουμε debug με F5
 
 int main() {
-    printf("This is a simple C program.\n");
+    printf("This is a simple i C program.\n");
 }
